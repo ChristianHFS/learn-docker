@@ -1,8 +1,3 @@
-# Docker Node MongoDB Example
-
-> Simple example of a dockerized Node/Mongo app
-
-![Image](https://i.ibb.co/4Fgt31L/demo.gif)
 
 ## Quick Start
 
